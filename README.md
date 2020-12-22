@@ -11,7 +11,12 @@
 
 ### **Tech** 
 #### Coded with Python in Jupyter notebook import Library List: 
-```import pygame 
+#### Libaries initiated with code as:
+```
+import pygame 
 import sys
 import pymunk 
-import math as m```
+import math as m
+```
+
+
