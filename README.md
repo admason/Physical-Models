@@ -10,8 +10,9 @@
 ###### There is no limit to the quantity of balls which may be produced.
 
 ### **Tech** 
-#### Coded with Python in Jupyter notebook import Library List: 
-#### Libaries initiated with code as:
+##### Coded with Python in Jupyter notebook with pygame, pymunk, sys, math. 
+##### Import Library List: 
+##### Libaries initiated with code as:
 ```
 import pygame 
 import sys
