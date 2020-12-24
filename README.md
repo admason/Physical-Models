@@ -1,6 +1,6 @@
 # Physical-Models
 #### A library of mathematical models for the solution to physics problems.
-## 1. **Ball_meets_sphere**
+## 1. **Ball_meets_sphere**  Ball_meets_sphere.ipynb
 ### **Build Status: Working model, under development**
 ##### The physics of a ball, or series of balls, dropping onto a sphere is simulated in this code.
 [![bounce.jpg](https://i.postimg.cc/DZP0dSXY/bounce.jpg)](https://postimg.cc/jwCRRdvz)
