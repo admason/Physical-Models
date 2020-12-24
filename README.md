@@ -122,8 +122,8 @@ while True:   #Game Loop
 ### **Build Status: Working model, under development**
 ##### The physics of a ball, or series of balls, dropping onto a lattice of sphere is simulated in this code.
 ##### The bottom row may be arranged as a catchment row, onto which the balls will pile up. To acheive this set "Size of Static rock" = 25
-[![bounce.jpg](https://i.postimg.cc/DZP0dSXY/bounce.jpg)](https://postimg.cc/jwCRRdvz)
-###### The User may select the radius and elesticity of the falling ball as it collidfed with the sphere.
+[![cascade.jpg](https://i.postimg.cc/hG19ZdpR/cascade.jpg)](https://postimg.cc/f3ktJkG8)
+###### 
 ###### Generally the sphere should be significantly larger than the falling ball, however the User may feel free to experiment, try Size of Falling Rock = 3, "Size of Statis rock" = 25
 ###### Once the criteria for the ball and sphere are defined, the User may click with the mouse on the screen to generate a ball, which will descend subject to gravitational for and collision with the sphere.
 ###### There is no limit to the quantity of balls which may be produced.
@@ -285,3 +285,9 @@ while True:   #Game Loop
 
 
 ```
+
+## **Instructions**
+#### Paste the code into a Jupyter notebook window.
+#### Press SHIFT ENTER.
+#### Enter model parameters and press ENTER each time
+#### Click on screen to activate falling object
